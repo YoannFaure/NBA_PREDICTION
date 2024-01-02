@@ -1,0 +1,114 @@
+Informations pour le modèle: decision_tree_model
+----
+Best Params: {'max_depth': 10, 'min_samples_leaf': 2, 'min_samples_split': 2, 'splitter': 'random'}
+execution time search params: 67.24168372154236 seconds
+Execution Time Training: 0.49773216247558594 seconds
+Confusion Matrix:
+[[25205  6071]
+ [16665 10528]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.81      0.69     31276
+           1       0.63      0.39      0.48     27193
+
+    accuracy                           0.61     58469
+   macro avg       0.62      0.60      0.58     58469
+weighted avg       0.62      0.61      0.59     58469
+
+----
+Informations pour le modèle: logistic_model
+----
+Best Params: {'C': 0.01, 'penalty': 'l1', 'solver': 'liblinear'}
+execution time search params: 1622.7000427246094 seconds
+Execution Time Training: 30.17379665374756 seconds
+Confusion Matrix:
+[[25044  6232]
+ [16431 10762]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.80      0.69     31276
+           1       0.63      0.40      0.49     27193
+
+    accuracy                           0.61     58469
+   macro avg       0.62      0.60      0.59     58469
+weighted avg       0.62      0.61      0.59     58469
+
+----
+Informations pour le modèle: gradient_boosting_model
+----
+Best Params: {'learning_rate': 0.03, 'max_depth': 4, 'n_estimators': 200, 'subsample': 0.6}
+execution time search params: 450.58074736595154 seconds
+Execution Time Training: 51.93135070800781 seconds
+Confusion Matrix:
+[[25821  5455]
+ [17022 10171]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.83      0.70     31276
+           1       0.65      0.37      0.48     27193
+
+    accuracy                           0.62     58469
+   macro avg       0.63      0.60      0.59     58469
+weighted avg       0.63      0.62      0.59     58469
+
+----
+Informations pour le modèle: adaboost_model
+----
+Best Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 150}
+execution time search params: 303.55307626724243 seconds
+Execution Time Training: 22.071539640426636 seconds
+Confusion Matrix:
+[[25605  5671]
+ [16884 10309]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.82      0.69     31276
+           1       0.65      0.38      0.48     27193
+
+    accuracy                           0.61     58469
+   macro avg       0.62      0.60      0.59     58469
+weighted avg       0.62      0.61      0.59     58469
+
+----
+Informations pour le modèle: xgboost_model
+----
+Best Params: {'colsample_bytree': 0.6, 'gamma': 0.2, 'learning_rate': 0.03, 'max_depth': 4, 'n_estimators': 200, 'subsample': 0.6}
+execution time search params: 680.7922897338867 seconds
+Execution Time Training: 7.668790340423584 seconds
+Confusion Matrix:
+[[25754  5522]
+ [16958 10235]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.82      0.70     31276
+           1       0.65      0.38      0.48     27193
+
+    accuracy                           0.62     58469
+   macro avg       0.63      0.60      0.59     58469
+weighted avg       0.62      0.62      0.59     58469
+
+----
+Informations pour le modèle: lightgbm_model
+----
+Best Params: {'learning_rate': 0.03, 'max_depth': 4, 'metric': 'binary_error', 'n_estimators': 200, 'objective': 'binary', 'subsample': 0.5}
+execution time search params: 56.83856391906738 seconds
+Execution Time Training: 0.7637276649475098 seconds
+Confusion Matrix:
+[[25863  5413]
+ [17109 10084]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.83      0.70     31276
+           1       0.65      0.37      0.47     27193
+
+    accuracy                           0.61     58469
+   macro avg       0.63      0.60      0.58     58469
+weighted avg       0.62      0.61      0.59     58469
+
+----
