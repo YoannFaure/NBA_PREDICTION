@@ -81,8 +81,8 @@ Pour exécuter les notebooks de démonstration, ouvrez Jupyter Notebook et parco
 - Didier ZEITOUN
 - Samy SELLAM
 - Yoann FAURE
-
 sous la supervision de Frédéric FRANCINE 
+
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
