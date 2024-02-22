@@ -23,13 +23,6 @@ Les données utilisées proviennent du site kaggle :
 - dataset des bilans d’équipe entre 2014 et 2018 : [kaggle](https://www.kaggle.com/nathanlauga/nba-games?select=ranking.csv)
 - dataset des joueurs de NBA depuis 1950 : [kaggle](https://www.kaggle.com/drgilermo/nba-players-stats?select=Players.csv)
 
-## Contributeur : 
-
-- Didier ZEITOUN
-- Samy SELLAM
-- Yoann FAURE
-
-sous la supervision de Frédéric FRANCINE 
 
 Project Organization
 ------------
@@ -79,10 +72,17 @@ Pour lancer l'application Streamlit et interagir avec l'interface utilisateur :
 streamlit run streamlit app/NBA.py 
 ```
 
-ou consulter [la version en ligne ici](HTTP://nbadata.hd.free.FR:850)
+ou consulter [la version en ligne ici](https://nbaprediction.streamlit.app)
 
 Pour exécuter les notebooks de démonstration, ouvrez Jupyter Notebook et parcourez le répertoire notebooks/
 
+## Contributeur : 
+
+- Didier ZEITOUN
+- Samy SELLAM
+- Yoann FAURE
+
+sous la supervision de Frédéric FRANCINE 
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
