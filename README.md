@@ -72,7 +72,7 @@ Pour lancer l'application Streamlit et interagir avec l'interface utilisateur :
 streamlit run streamlit app/NBA.py 
 ```
 
-ou consulter [la version en ligne ici](https://nbaprediction.streamlit.app)
+![intro](reports/app/Projet NBA - intro.png)
 
 Pour exécuter les notebooks de démonstration, ouvrez Jupyter Notebook et parcourez le répertoire notebooks/
 
