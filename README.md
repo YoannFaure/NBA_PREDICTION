@@ -57,7 +57,7 @@ Project Organization
 Pour commencer à utiliser NBA SHOT PREDICTION, clonez le dépôt et installez les dépendances nécessaires :
 
     ```bash
-    git clone https://github.com/DataScientest-Studio/SEP23_BDS_NBA.git NBA
+    git clone https://github.com/YoannFaure/NBA_PREDICTION.git NBA
     cd NBA
     pip install -r requirements.txt
     ```
