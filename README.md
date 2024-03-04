@@ -82,7 +82,7 @@ streamlit run streamlit app/NBA.py
 --------
 ![NBA_prediction](reports/app/NBA_visualisation_2.png)
 --------
-![NBA_prediction](reports/app/NBA_machine_learning.png)
+![NBA_prediction](reports/app/NBA_machinelearning.png)
 --------
 ![NBA_prediction](reports/app/NBA_interpretability_global.png)
 --------
