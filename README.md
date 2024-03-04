@@ -73,6 +73,13 @@ streamlit run streamlit app/NBA.py
 ```
 
 ![NBA_prediction](reports/app/NBA_intro.png)
+![NBA_prediction](reports/app/NBA_dataset.png)
+![NBA_prediction](reports/app/NBA_preprocessing.png)
+![NBA_prediction](reports/app/NBA_visualisation_1.png)
+![NBA_prediction](reports/app/NBA_visualisation_2.png)
+![NBA_prediction](reports/app/NBA_machine_learning.png)
+![NBA_prediction](reports/app/NBA_interpretability_global.png)
+![NBA_prediction](reports/app/NBA_interpretability_local.png)
 
 Pour exécuter les notebooks de démonstration, ouvrez Jupyter Notebook et parcourez le répertoire notebooks/
 
