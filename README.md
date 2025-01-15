@@ -84,8 +84,6 @@ Pour exécuter les notebooks de démonstration, ouvrez Jupyter Notebook et parco
 
 ## Contributeur : 
 
-- Didier ZEITOUN
-- Samy SELLAM
 - Yoann FAURE
 
 sous la supervision de Frédéric FRANCINE 
